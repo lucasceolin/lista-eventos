@@ -2,7 +2,7 @@
 
 Protótipo: 
 
-![image](https://uidesigndaily.com/posts/figma-billing-page-payment-day-1585)
+![image](https://user-images.githubusercontent.com/79987087/192535106-c1eb448c-47d3-4eaf-9789-ae27033bee71.png)
 
 <h2> Projeto de implementação de uma tela de Lista de eventos. </h2>
 
