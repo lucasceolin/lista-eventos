@@ -2,7 +2,7 @@
 
 Protótipo: 
 
-![image](https://user-images.githubusercontent.com/79987087/192535106-c1eb448c-47d3-4eaf-9789-ae27033bee71.png)
+![image](https://uidesigndaily.fra1.digitaloceanspaces.com/uploads/1473/day_1473.png)
 
 <h2> Projeto de implementação de uma tela de Lista de eventos. </h2>
 
